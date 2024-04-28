@@ -4,6 +4,7 @@
 
 ## 主要功能
 *用戶:登入、登出、密碼重設
+
 *擷取並建立/更新刪除搜尋黑名單至資料庫
     * 擷取黑名單:
       抓取網址（最後的數字從0開始0,1,2依序往下分頁，擷取至 Not found infomation / Internal Server Error/Internal Server Error 代表已結束）
