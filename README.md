@@ -49,5 +49,18 @@
 ![螢幕擷取畫面 2024-04-26 234956](https://github.com/hawuyi/NTUH/assets/136839532/17d92501-31ab-4ba3-a5bd-1b8c6df351d3)
 ![image](https://github.com/hawuyi/NTUH/assets/136839532/4f0ac21d-d3b8-404c-8db9-b46fe4f3bb7d)
 
+![image](https://github.com/hawuyi/NTUH/assets/136839532/9ce21f6c-45cc-4f04-9d2e-5ba69e116ad2)
+![image](https://github.com/hawuyi/NTUH/assets/136839532/aed32edf-f013-4247-b988-eb99889da350)
+![image](https://github.com/hawuyi/NTUH/assets/136839532/bc8d50dc-1fb6-4935-963c-ef6bc210161a)
+![image](https://github.com/hawuyi/NTUH/assets/136839532/2f27f424-7c0a-4fc9-b699-9384c4171ae0)
+
+![image](https://github.com/hawuyi/NTUH/assets/136839532/78175ac8-4ece-4e5f-9b5e-e3db8564acbe)
+
+
+
+
+
+
+
 
 
