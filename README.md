@@ -47,5 +47,7 @@
 ***
 ### 專案截圖
 ![螢幕擷取畫面 2024-04-26 234956](https://github.com/hawuyi/NTUH/assets/136839532/17d92501-31ab-4ba3-a5bd-1b8c6df351d3)
+![image](https://github.com/hawuyi/NTUH/assets/136839532/4f0ac21d-d3b8-404c-8db9-b46fe4f3bb7d)
+
 
 
