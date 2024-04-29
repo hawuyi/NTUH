@@ -46,7 +46,8 @@
     4. Bootstrap  
 ***
 ### 專案截圖
-![螢幕擷取畫面 2024-04-26 234956](https://github.com/hawuyi/NTUH/assets/136839532/17d92501-31ab-4ba3-a5bd-1b8c6df351d3)
+![image](https://github.com/hawuyi/deny-list/assets/136839532/2776d240-fe7f-40dc-bb8a-d6c70c327c6c)
+
 ![image](https://github.com/hawuyi/NTUH/assets/136839532/4f0ac21d-d3b8-404c-8db9-b46fe4f3bb7d)
 
 ![image](https://github.com/hawuyi/NTUH/assets/136839532/9ce21f6c-45cc-4f04-9d2e-5ba69e116ad2)
