@@ -44,7 +44,7 @@
     2. Laravel Framework 開發
     3. MySQL 管理資料庫
     4. Bootstrap
-    5. sweetalert2
+    5. SweetAlert2
 ***
 ### 專案截圖
 ![image](https://github.com/hawuyi/deny-list/assets/136839532/2776d240-fe7f-40dc-bb8a-d6c70c327c6c)
