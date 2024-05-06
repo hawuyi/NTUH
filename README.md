@@ -40,7 +40,7 @@
     * 功能錯誤時，記錄錯誤日誌
 ## 運用技術
     1. PHP 7.3
-    2. Laravel Framework 5.8開發
+    2. Laravel Framework 5.8 開發
     3. MySQL 管理資料庫
     4. Bootstrap
     5. SweetAlert2
